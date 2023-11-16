@@ -13,11 +13,12 @@ A class is a colllection of objects. A class helps in keeping a track of your ob
 + ![Class](https://github.com/SuryaShasni/OOPs-Concept/assets/146861918/e326558b-b6f2-4c4a-84ce-dbfe1f6c4c34)
 ### 2) OBJECTS
 An object is any entity that exists. e.g. object can be candy's price or its name. <br>X and Y in previous image are objects.
-### POLYMORPHISM
+### 3) POLYMORPHISM
 This word is derived from greek and means having many forms. Here its use is when parent class reference is used to refer to a child class object.
 + ![Polymorphism](https://github.com/SuryaShasni/OOPs-Concept/assets/146861918/acb64e7b-a153-4c03-8f77-f74d4224ca64)
-### 4) Encapsulation
+### 4) ENCAPSULATION
 It is simply encapsuling objects, like a class does. It converts many objects and data in a single unit which helps in operating them easily.
-
+### 5) INHERITANCE
+Inheritance is the capability of one class to derive or inherit the properties from another class. The class that derives properties is called the derived class or child class and the class from which the properties are being derived is called the base class or parent class. 
 ## Another important part is a topic **'Method Overriding'**.
 + Method overriding is an ability that allows a subclass or child class to provide a specific implementation of a method that is already provided by one of its super-classes or parent classes.
